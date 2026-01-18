@@ -121,5 +121,5 @@ Main label distributions observed in this project (approximate):
    - `senator_sentiment_transformers.ipynb`
    - `senator_sentiment_TF-IDF+LR+CV.ipynb`
 2. Make sure `senator_twitter_May-Oct.csv` is in the same folder (or adjust the path)
-3. Run cells from top to bottom. Each notebook saves/uses intermediate CSV outputs.
+
 
